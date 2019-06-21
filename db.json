@@ -1,0 +1,214 @@
+{
+  "items": [
+
+    {
+      "title": "buy stuff for kitten",
+      "price": 100,
+      "date": "2018-08-15",
+      "monthCategory": "2018-8",
+      "id": "_kly1klf4g",
+      "cid": "1",
+      "timestamp": 1534291200000
+    },
+    {
+      "title": "Financing",
+      "price": 1000,
+      "date": "2018-08-11",
+      "monthCategory": "2018-8",
+      "id": "_1fg1wme63",
+      "cid": "11",
+      "timestamp": 1533945600000
+    },
+    {
+      "title": "Financing",
+      "price": 300,
+      "date": "2018-11-15",
+      "monthCategory": "2018-11",
+      "id": "_qryggm5y8",
+      "cid": "12",
+      "timestamp": 1534291200000
+    },
+    {
+      "title": "Shopping with Tonny",
+      "price": 300,
+      "date": "2018-11-15",
+      "monthCategory": "2018-11",
+      "id": "_qryggm511",
+      "cid": "3",
+      "timestamp": 1534291200000
+    },
+    {
+      "title": "Dinner",
+      "price": 13,
+      "date": "2019-06-18",
+      "monthCategory": "2019-6",
+      "timestamp": 1560816000000,
+      "id": "_ommijo9",
+      "cid": "2"
+    },
+    {
+      "title": "shopping with firends",
+      "price": 720,
+      "date": "2018-08-11",
+      "monthCategory": "2018-8",
+      "timestamp": 1533945600000,
+      "id": "_5ny4knb",
+      "cid": "3"
+    },
+    {
+      "title": "TA Fundings",
+      "price": 300,
+      "date": "2018-08-15",
+      "monthCategory": "2018-8",
+      "timestamp": 1534291200000,
+      "id": "_3aeml91",
+      "cid": "11"
+    },
+    {
+      "title": "Buy a new Laptop",
+      "price": 1900,
+      "date": "2019-06-22",
+      "monthCategory": "2019-6",
+      "timestamp": 1561161600000,
+      "id": "_5vq5dtq",
+      "cid": "4"
+    },
+    {
+      "title": "Buy a new phone",
+      "price": 799,
+      "date": "2018-08-18",
+      "monthCategory": "2018-8",
+      "timestamp": 1534550400000,
+      "id": "_yennyhb",
+      "cid": "4"
+    },
+    {
+      "title": "lottery",
+      "price": 50,
+      "date": "2018-08-27",
+      "monthCategory": "2018-8",
+      "timestamp": 1535328000000,
+      "id": "_jsaeyu7",
+      "cid": "12"
+    }
+  ],
+
+  "categories": [
+    {
+      "name": "Travelling",
+      "iconName": "md-plane",
+      "id": "1",
+      "type": "outcome"
+    },
+    {
+      "name": "Eating",
+      "iconName": "md-restaurant",
+      "id": "2",
+      "type": "outcome"
+    },
+    {
+      "name": "Shopping",
+      "iconName": "md-basket",
+      "id": "3",
+      "type": "outcome"
+    },
+    {
+      "name": "Electronics",
+      "iconName": "md-phone-portrait",
+      "id": "4",
+      "type": "outcome"
+    },
+    {
+      "name": "Commuting",
+      "iconName": "md-train",
+      "id": "5",
+      "type": "outcome"
+    },
+    {
+      "name": "Entertainment",
+      "iconName": "md-beer",
+      "id": "6",
+      "type": "outcome"
+    },
+    {
+      "name": "Car",
+      "iconName": "ios-car",
+      "id": "7",
+      "type": "outcome"
+    },
+    {
+      "name": "Medical",
+      "iconName": "ios-medkit",
+      "id": "8",
+      "type": "outcome"
+    },
+    {
+      "name": "Sport",
+      "iconName": "md-football",
+      "id": "9",
+      "type": "outcome"
+    },
+    {
+      "name": "Pets",
+      "iconName": "md-paw",
+      "id": "10",
+      "type": "outcome"
+    },
+    {
+      "name": "Living",
+      "iconName": "md-home",
+      "id": "11",
+      "type": "outcome"
+    },
+    {
+      "name": "Learning",
+      "iconName": "md-book",
+      "id": "12",
+      "type": "outcome"
+    },
+    {
+      "name": "Others",
+      "iconName": "md-apps",
+      "id": "13",
+      "type": "outcome"
+    },
+    {
+      "name": "Salary",
+      "iconName": "md-card",
+      "id": "14",
+      "type": "income"
+    },
+    {
+      "name": "Part-time job",
+      "iconName": "md-cash",
+      "id": "15",
+      "type": "income"
+    },
+    {
+      "name": "Financing",
+      "iconName": "logo-yen",
+      "id": "16",
+      "type": "income"
+    },
+    {
+      "name": "Other",
+      "iconName": "md-apps",
+      "id": "17",
+      "type": "income"
+    }
+  ],
+
+  "headlines" : [
+    {
+        "address": "../img/user_05_carousel_02.jpg"
+    },
+
+    {
+        "address": "../img/user_05_carousel_02.jpg"
+    },
+    {
+        "address": "../img/user_05_carousel_03.jpg"
+    }
+  ]
+
+}

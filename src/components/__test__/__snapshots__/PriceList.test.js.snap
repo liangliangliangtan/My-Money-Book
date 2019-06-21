@@ -1,0 +1,170 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test PriceList component should render the component to match snapshort 1`] = `
+<ul
+  className="list-group list-group-flush"
+>
+  <li
+    className="list-group-item d-flex 
+ justify-content-between align-items-center"
+    key="1"
+  >
+    <span
+      className="col-1"
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="30px"
+        icon="md-restaurant"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "#347eff",
+            "padding": "5px",
+          }
+        }
+      />
+    </span>
+    <span
+      className="col-5"
+    >
+      testItem
+    </span>
+    <span
+      className="col-2 font-weight-bold"
+    >
+      -
+       
+      200
+    </span>
+    <span
+      className="col-2"
+    >
+      2018-09-10
+    </span>
+    <a
+      className="col-1"
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="20px"
+        icon="md-create"
+        rotate={false}
+        shake={false}
+        style={Object {}}
+      />
+    </a>
+    <a
+      className="col-1"
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="20px"
+        icon="md-trash"
+        rotate={false}
+        shake={false}
+        style={Object {}}
+      />
+    </a>
+  </li>
+  <li
+    className="list-group-item d-flex 
+ justify-content-between align-items-center"
+    key="2"
+  >
+    <span
+      className="col-1"
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="30px"
+        icon="md-train"
+        rotate={false}
+        shake={false}
+        style={
+          Object {
+            "backgroundColor": "#347eff",
+            "padding": "5px",
+          }
+        }
+      />
+    </span>
+    <span
+      className="col-5"
+    >
+      testItem2
+    </span>
+    <span
+      className="col-2 font-weight-bold"
+    >
+      +
+       
+      300
+    </span>
+    <span
+      className="col-2"
+    >
+      2018-09-10
+    </span>
+    <a
+      className="col-1"
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="20px"
+        icon="md-create"
+        rotate={false}
+        shake={false}
+        style={Object {}}
+      />
+    </a>
+    <a
+      className="col-1"
+      onClick={[Function]}
+      role="button"
+      style={
+        Object {
+          "cursor": "pointer",
+        }
+      }
+    >
+      <Ionicon
+        beat={false}
+        color="#6BE61A"
+        fontSize="20px"
+        icon="md-trash"
+        rotate={false}
+        shake={false}
+        style={Object {}}
+      />
+    </a>
+  </li>
+</ul>
+`;
