@@ -148,10 +148,9 @@ class Home extends React.Component {
             return (
                 <React.Fragment>
                         <header className="App-Header">
-                        {   headLines && headLines.length !== 0 &&
-                            <Carousels height={360} width={'75%'} totalItems={headLines.length} items={headLines}>
-                            </Carousels>
-                        }
+                        <div className="row mb-5 justify-content-center">
+                            <img src={logo} className="App-logo" alt="logo" />
+                        </div>
                             <div className="row">
                                 <div className="col">
                                     <MonthPicker year={currentDate.year} month={currentDate.month}
@@ -235,7 +234,6 @@ export default withRouter(withContext(Home));
 //<img src={logo} className="App-logo" alt="logo" />
 //                            </div >
 
-{//headLines && headLines.length !== 0 &&
+//{//headLines && headLines.length !== 0 &&
     //<Carousels height={360} width={'75%'} totalItems={headLines.length} items={headLines}>
     //</Carousels>
-}
