@@ -43,23 +43,33 @@ All the UI icons are from [Ionicons](https://ionicons.com/).
 ## Project Snapshot
 
 
-1. Index page:
+### 1. Index page:
 
-![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/indexPage.png)
+<div>
+  <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/indexPage.png" alt="Smiley face" width="50%" height="50%">
+</div>
+<br>
 
 
-2. Eidt/Create page
+### 2. Eidt/Create page
 
-![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/edit.png)
+<div>
+  <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/edit.png" alt="Smiley face" width="50%" height="50%">
+</div>
+<br>
+### 3. Pie Chart 
 
-3. Pie Chart 
-   
-![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/chartMode.png)
+<div>
+  <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/chartMode.png" alt="Smiley face" width="50%" height="50%">
+</div>
+<br>
 
-4. Line Chart
+### 4. Line Chart
 
-![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/TrendMode.png)
-
+<div>
+  <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/TrendMode.png" alt="Smiley face" width="50%" height="50%">
+</div>
+<br>
 
 # 
 ## Available Scripts
