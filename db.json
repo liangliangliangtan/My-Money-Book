@@ -1,6 +1,5 @@
 {
   "items": [
-
     {
       "title": "buy stuff for kitten",
       "price": 100,
@@ -9,15 +8,6 @@
       "id": "_kly1klf4g",
       "cid": "1",
       "timestamp": 1534291200000
-    },
-    {
-      "title": "Financing",
-      "price": 1000,
-      "date": "2018-08-11",
-      "monthCategory": "2018-8",
-      "id": "_1fg1wme63",
-      "cid": "11",
-      "timestamp": 1533945600000
     },
     {
       "title": "Financing",
@@ -56,15 +46,6 @@
       "cid": "3"
     },
     {
-      "title": "TA Fundings",
-      "price": 300,
-      "date": "2018-08-15",
-      "monthCategory": "2018-8",
-      "timestamp": 1534291200000,
-      "id": "_3aeml91",
-      "cid": "11"
-    },
-    {
       "title": "Buy a new Laptop",
       "price": 1900,
       "date": "2019-06-22",
@@ -90,9 +71,35 @@
       "timestamp": 1535328000000,
       "id": "_jsaeyu7",
       "cid": "12"
+    },
+    {
+      "title": "PocketMoney",
+      "price": 1000,
+      "date": "2018-08-11",
+      "monthCategory": "2018-8",
+      "timestamp": 1533945600000,
+      "id": "_6zp4a80",
+      "cid": "17"
+    },
+    {
+      "title": "Financing",
+      "price": 1000,
+      "date": "2018-08-14",
+      "monthCategory": "2018-8",
+      "timestamp": 1534204800000,
+      "id": "_37g8ydn",
+      "cid": "16"
+    },
+    {
+      "title": "TA Fundings",
+      "price": 1000,
+      "date": "2018-08-08",
+      "monthCategory": "2018-8",
+      "timestamp": 1533686400000,
+      "id": "_w52719o",
+      "cid": "15"
     }
   ],
-
   "categories": [
     {
       "name": "Travelling",
@@ -197,18 +204,15 @@
       "type": "income"
     }
   ],
-
-  "headlines" : [
+  "headlines": [
     {
-        "address": "../img/user_05_carousel_02.jpg"
-    },
-
-    {
-        "address": "../img/user_05_carousel_02.jpg"
+      "address": "../img/user_05_carousel_02.jpg"
     },
     {
-        "address": "../img/user_05_carousel_03.jpg"
+      "address": "../img/user_05_carousel_02.jpg"
+    },
+    {
+      "address": "../img/user_05_carousel_03.jpg"
     }
   ]
-
 }

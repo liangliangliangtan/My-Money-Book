@@ -1,5 +1,62 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#
+This project is developed in test-driven way (**TDD**) . Every core component has a **unit test** file in the test folder with the help of [Enzyme](https://airbnb.io/enzyme/) and [Jest](https://jestjs.io/)  framework . 
+
+This project using   [JSON Server](https://github.com/typicode/json-server) as a mock server to support REST API.  [Axios](https://github.com/axios/axios) is utilized to send XMLHttpRequests from the browser to the Server. 
+
+
+The charts integrated into the React project are developed by third-party library [Recharts](http://recharts.org/en-US).
+
+
+All the UI icons are from [Ionicons](https://ionicons.com/).
+
+#
+
+## Project Dependencies:
+
+* axios: 0.19.0,
+* bootstrap: 4.3.1,
+* prop-types: 15.7.2,
+* react: 16.8.6,
+* react-dom : 16.8.6,
+* react-ionicons: 2.1.6,
+* react-router-dom: 5.0.1,
+* react-scripts: 3.0.1,
+* recharts : 1.6.2, (belowed are dev dependencies)
+* concurrently: 4.1.0,
+* enzyme: 3.10.0,
+* enzyme-adapter-react-16: 1.14.0,
+* enzyme-to-json:  3.3.5,
+* json-server: 0.15.0
+
+
+#
+
+
+## Project Snapshot
+
+
+1. Index page
+
+![indexPage](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
+
+2. Eidt/Create page
+
+![editOrCreatePage](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
+3. Pie Chart 
+
+![pieChart](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
+4. Line Chart
+
+![lineChart](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
+
+# 
 ## Available Scripts
 
 In the project directory, you can run:
