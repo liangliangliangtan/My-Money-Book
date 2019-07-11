@@ -1,10 +1,15 @@
+
+## Money Book React Application 
+
+#
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 #
 This project is developed in test-driven way (**TDD**) . Every core component has a **unit test** file in the test folder with the help of [Enzyme](https://airbnb.io/enzyme/) and [Jest](https://jestjs.io/)  framework . 
 
-This project using   [JSON Server](https://github.com/typicode/json-server) as a mock server to support REST API.  [Axios](https://github.com/axios/axios) is utilized to send XMLHttpRequests from the browser to the Server. 
+This project using   [JSON Server](https://github.com/typicode/json-server) as a mock server to support REST API.  [Axios](https://github.com/axios/axios) is utilized to send XMLHttpRequests from the browser to the Server. (Axios is a pretty good Promise supproted AJAX library). 
 
 
 The charts integrated into the React project are developed by third-party library [Recharts](http://recharts.org/en-US).
@@ -39,20 +44,20 @@ All the UI icons are from [Ionicons](https://ionicons.com/).
 
 
 1. Index page:
-=========================
+
 ![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/indexPage.png)
 
 
 2. Eidt/Create page
-=========================
+
 ![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/edit.png)
 
 3. Pie Chart 
-=========================
+   
 ![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/chartMode.png)
 
 4. Line Chart
-=========================
+
 ![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/TrendMode.png)
 
 
