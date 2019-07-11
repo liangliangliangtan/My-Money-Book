@@ -57,7 +57,8 @@ All the UI icons are from [Ionicons](https://ionicons.com/).
   <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/edit.png" alt="Smiley face" width="50%" height="50%">
 </div>
 <br>
-### 3. Pie Chart 
+
+### 3.Pie Chart 
 
 <div>
   <img src="https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/chartMode.png" alt="Smiley face" width="50%" height="50%">
