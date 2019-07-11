@@ -38,22 +38,22 @@ All the UI icons are from [Ionicons](https://ionicons.com/).
 ## Project Snapshot
 
 
-1. Index page
-
-![indexPage](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+1. Index page:
+=========================
+![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/indexPage.png)
 
 
 2. Eidt/Create page
-
-![editOrCreatePage](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+=========================
+![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/edit.png)
 
 3. Pie Chart 
-
-![pieChart](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+=========================
+![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/chartMode.png)
 
 4. Line Chart
-
-![lineChart](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+=========================
+![](https://github.com/liangliangliangtan/My-Money-Book/blob/master/project_image/TrendMode.png)
 
 
 # 
